@@ -11,11 +11,11 @@
     <h3 class="mb-4">Simple Calculator</h3>
     <div class="mb-3">
       <label for="number1" class="form-label">First Number</label>
-      <input type="text" class="form-control" id="number1" name="number1" required>
+      <input type="text" class="form-control" id="number1" name="number1" required maxlength="6" pattern="\d{1,6}" title="Enter up to 6 digits only">
     </div>
     <div class="mb-3">
       <label for="number2" class="form-label">Second Number</label>
-      <input type="text" class="form-control" id="number2" name="number2" required>
+      <input type="text" class="form-control" id="number2" name="number2" required maxlength="6" pattern="\d{1,6}" title="Enter up to 6 digits only">
     </div>
     <div class="mb-3">
       <label for="operation" class="form-label">Operation</label>
