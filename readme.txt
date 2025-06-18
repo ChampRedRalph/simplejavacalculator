@@ -19,7 +19,7 @@ A simple, stylish calculator web app built with HTML, CSS, and JavaScript.
 
 ## Credits
 
-Made by Ralph Simon Mabulay(ChampRedRalph")
+Made by Ralph Simon Mabulay(ChampRedRalph)
 
 ## License
 
